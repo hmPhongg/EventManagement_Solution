@@ -10,7 +10,6 @@ namespace server
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            // ✅ Đảm bảo tên Form ở đây khớp với tên class trong Form1.cs
             Application.Run(new Form1());
         }
     }
