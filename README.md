@@ -1,4 +1,4 @@
-﻿# 📅 Event Management System
+﻿# 📅 HỆ THỐNG QUẢN LÝ SỰ KIỆN
 
 ## 📖 Giới thiệu
 Ứng dụng quản lý sự kiện được xây dựng theo mô hình **Client-Server** sử dụng giao thức **TCP/IP** và **Windows Sockets (Winsock)** trong ngôn ngữ **C#** với **Windows Forms**.
